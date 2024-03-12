@@ -11,4 +11,4 @@ Transform is not tested. Only upto 2G input.
 
 Without a dictionary only capital letter and escape transforms are made. There are times where this can be useful.
 
-Dictionary is same as in [fxcm](https://github.com/kaitz/fxcm). 
+Dictionary is same as in [fxcm](https://github.com/kaitz/fxcm), [fx-cmix](https://github.com/kaitz/fx-cmix).
