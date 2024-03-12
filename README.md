@@ -1,9 +1,11 @@
 # fxd
+Program to encode and decode text files wit dictionary transorm.
+### Usage 
+ To encode: fxd e input output dictionary
+ 
+ To decode: fxd d input output dictionary
 
-To compress:   fxd e input output dictionary
-
-To decompress: fxd d input output dictionary
-
+### Info 
 This program contains changed parts from fallowing open source programs:
 paq8hp12->textfilter.hpp
 
